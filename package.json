@@ -1,0 +1,19 @@
+{
+  "name": "kripadocs-assgn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DEEPANSHU1446/kripaDocs-assgn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DEEPANSHU1446/kripaDocs-assgn/issues"
+  },
+  "homepage": "https://github.com/DEEPANSHU1446/kripaDocs-assgn#readme"
+}
